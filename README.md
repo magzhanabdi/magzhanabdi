@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 - 🌱 Я родился 3 июня 2004 года в Туркестане. <br> 
 - 🔭 Я учусь в Международный казахско-турецкий университете имени Ходжи Ахмеда Ясави (МКТУ) ⚡ <br>
 </h3>
-
-<a href="https://t.me/magzhanabdilla"><img src="./telegram.svg" width="48"></a>&nbsp;
-<a href="https://www.instagram.com/m.abdi901_/"><img src="./instagram.svg" width="48"></a>
+<br>
+<a href="https://t.me/magzhanabdilla"><img src="./telegram2.svg" width="48"></a>&nbsp;
+<a href="https://www.instagram.com/m.abdi901_/"><img src="./instagram2.svg" width="48"></a>
 
 
