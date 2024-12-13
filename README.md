@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 </h3>
 
 <a href="https://t.me/magzhanabdilla"><img src="./telegram.svg" width="48"></a>&nbsp;
-<a href="https://www.instagram.com/m.abdi901_/"><img src="./instagrma.svg" width="48"></a>
+<a href="https://www.instagram.com/m.abdi901_/"><img src="./instagram.svg" width="48"></a>
 
 
