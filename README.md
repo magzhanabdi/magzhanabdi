@@ -10,4 +10,5 @@ Here are some ideas to get you started:
 - 🔭 Я учусь в Международный казахско-турецкий университете имени Ходжи Ахмеда Ясави (МКТУ) ⚡ <br>
 </h3>
 
-
+<a href="https://t.me/magzhanabdilla"><img src="./icons/instagram.svg" width="48"></a>
+<img src="./icons/telegram.svg" width="48">
