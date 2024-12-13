@@ -1,4 +1,4 @@
-Привет 👋 Добро пожаловать в мой профиль!
+<h1>Привет 👋 Добро пожаловать в мой профиль!</h1>
 
 <!--
 **magzhanabdi/magzhanabdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
