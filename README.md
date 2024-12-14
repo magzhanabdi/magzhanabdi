@@ -7,7 +7,7 @@
 
 
 <h2>Социальные сети</h2>
-<a href="https://t.me/magzhanabdilla"><img src="./assets/telegram.svg" width="60"></a>&nbsp;
+<a href="https://t.me/magzhanabdi"><img src="./assets/telegram.svg" width="60"></a>&nbsp;
 <a href="https://www.instagram.com/m.abdi901_/"><img src="./assets/instagram.svg" width="60"></a>
 <br>
 <h2>Изучаю</h2>
