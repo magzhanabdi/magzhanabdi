@@ -6,7 +6,7 @@
 </h3>
 
 
-<h4>Связаться со мной</h4>
+<h3>социальные сети</h3>
 <a href="https://t.me/magzhanabdilla"><img src="./assets/telegram.svg" width="48"></a>&nbsp;
 <a href="https://www.instagram.com/m.abdi901_/"><img src="./assets/instagram.svg" width="48"></a>
 
